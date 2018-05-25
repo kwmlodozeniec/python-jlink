@@ -17,3 +17,4 @@ The default names for executables are as follows:
 ```
 Linux: JLinkExe
 Windows: JLink.exe
+ 
