@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-from jlink import JLink
+from jlink import *
